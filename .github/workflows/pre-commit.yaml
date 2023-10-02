@@ -1,5 +1,5 @@
 ---
-name: pre-commit
+name: prettier json
 
 on:
   pull_request:
