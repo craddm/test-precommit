@@ -7,8 +7,8 @@
   },
   {
     "package_name": "pandas",
-        "version": "> 0",
+    "version": "> 0",
     "approval_date": "2023-09-29",
-        "revoke_date": null
+    "revoke_date": null
   }
 ]
