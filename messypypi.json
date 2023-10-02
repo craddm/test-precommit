@@ -1,8 +1,8 @@
 [
-    {
+  {
     "package_name": "numpy",
     "version": "> 0",
-      "approval_date": "2023-09-29",
+    "approval_date": "2023-09-29",
     "revoke_date": "2024-01-01"
   },
   {
